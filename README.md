@@ -19,3 +19,8 @@
 
 ## Tech
 
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/></a> 
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/></a>
+<br>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=Canva&logoColor=white"/></a>
