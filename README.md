@@ -23,3 +23,11 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/></a>
 <br>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/></a>
+
+## LINKS
+
+#### figma Link
+https://www.figma.com/file/gKpmKS1cd79DqgLYphCHkN/Griffin_flight?type=design&node-id=0%3A1&mode=design&t=MKmpCuLIjFrEZkFe-1
+
+#### database
+https://docs.google.com/spreadsheets/d/1o_YLZNKeJhzFVoAPw9vg2JY38HwIiAxUekDzImhB9ak/edit?usp=sharing
